@@ -1,0 +1,2 @@
+locationid = 100 # the id of the location, get it from the url of the search query
+pages = 417

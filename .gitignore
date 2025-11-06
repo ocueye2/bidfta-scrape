@@ -1,0 +1,5 @@
+/.env
+/.venv
+/div.html
+/items.db
+/pagecache
